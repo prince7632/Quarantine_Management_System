@@ -1,4 +1,4 @@
-#Quarantine-Management-System#
+# Quarantine-Management-System
 Quarantine Management System implemented in c++.
 
 ##Project Author##
