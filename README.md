@@ -12,21 +12,21 @@ The aim of this project is to build a Quarantine centre management system  which
 
 ### main - 
 contains the body of the program,used to perform all the operations on the entries.
-### Person.cpp - 
+**Person.cpp** - 
 contains *Person* class.
-### Person.h - 
+**Person.h** - 
 contains header files of the class *Person*.
-### Covid_pos.cpp - 
+**Covid_pos.cpp** - 
 child class of *Covid_pos* class.
-### Covid_pos.h - 
+**Covid_pos.h** - 
 contains header files of *Covid_pos* class.
-### Covid_neg.cpp - 
+**Covid_neg.cpp** - 
 child class of *Covid_neg* class.
-### Covid_neg.h - 
+**Covid_neg.h** - 
 contains header files of *Covid_neg* class.
-### room_check.cpp - 
+**room_check.cpp** - 
 search for all the rooms.
-### room_check.h - 
+**room_check.h** - 
 contains headers of the *room_check*.
 
 # Thanks You!
